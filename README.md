@@ -4,8 +4,8 @@ My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](htt
 
 ### Courses
 
-| | | |
-|---|---|---|
+| Name | Repository | Homepage |
+|------|------------|----------|
 | 18.01SC Single Variable Calculus | [Repository](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010) | [OCW Page](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) |
 | 18.02SC Multivariable Calculus | [Repository](https://github.com/BenyaminJazayeri/MIT-OCW-18.02SC-Multivariable-Calculus-Fall-2010) | [OCW Page](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) |
 | 18.06SC Linear Algebra | [Repository](https://github.com/BenyaminJazayeri/MIT-OCW-18.06SC-Linear-Algebra-Fall-2011) | [OCW Page](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) |
@@ -20,8 +20,10 @@ My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](htt
 
 | Course | Type | Count |
 |--------|------|-------|
-| **18.01SC Single Variable Calculus** | Sessions | 80 |
+| **18.01SC Single Variable Calculus** | Sessions | 75 |
 | | Problem Sets | 11 |
+| | Exams | 4 |
+| | Final Exam | 1 |
 | **18.02SC Multivariable Calculus** | Sessions | 83 |
 | | Problem Sets | 12 |
 | | Exams | 4 |
