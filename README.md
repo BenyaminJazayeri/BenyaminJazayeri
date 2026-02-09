@@ -16,7 +16,7 @@ My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](htt
 | 6.036 Introduction to Machine Learning | [Repository](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019) | [Open Learning Page](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/) |
 | 6.042J Mathematics for Computer Science | [Repository](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010) | [OCW Page](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) |
 
-### Full Coursework
+### Full Coursework Done
 
 | Course | Type | Count |
 |--------|------|-------|
