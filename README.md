@@ -16,6 +16,34 @@ My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](htt
 | 6.036 Introduction to Machine Learning | [Repository](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019) | [Open Learning Page](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/) |
 | 6.042J Mathematics for Computer Science | [Repository](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010) | [OCW Page](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) |
 
+### Full Coursework
+
+| Course | Type | Count |
+|--------|------|-------|
+| **18.01SC Single Variable Calculus** | Sessions | 80 |
+| | Problem Sets | 11 |
+| **18.02SC Multivariable Calculus** | Sessions | 83 |
+| | Problem Sets | 12 |
+| | Exams | 4 |
+| | Final Exam | 1 |
+| | Practice Exams | 4 |
+| | Practice Final Exam | 1 |
+| **18.06SC Linear Algebra** | Sessions | 31 |
+| | Exams | 3 |
+| | Final Exam | 1 |
+| **6.0001 Intro to CS & Programming in Python** | Problem Sets | 6 |
+| **6.0002 Intro to Computational Thinking & Data Science** | Problem Sets | 5 |
+| **6.006 Introduction to Algorithms** | Problem Sets | 7 |
+| | Quizzes | 2 |
+| | Final Exam | 1 |
+| **6.034 Artificial Intelligence** | Labs | 6 |
+| **6.036 Introduction to Machine Learning** | Labs | 7 |
+| **6.042J Mathematics for Computer Science** | Problem Sets | 12 |
+| | Recitations | 23 |
+| | Midterm | 1 |
+| | Midterm Practice Problems | 1 |
+| | Finals | 4 |
+
 ### Full Transcript
 
 | Course | Assessment | Grade |
