@@ -1,6 +1,6 @@
 ## MIT Coursework
 
-My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](https://ocw.mit.edu/) and [MIT Open Learning Library](https://openlearninglibrary.mit.edu/). Each repository covers the exact same coursework required of MIT students for full marks. All solutions are my own.
+My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](https://ocw.mit.edu/) and [MIT Open Learning Library](https://openlearninglibrary.mit.edu/). Each repository covers the exact same coursework required of MIT students for full marks, with the exception of 6.034 which only includes the coding assignments. All solutions are my own.
 
 ### Courses
 
@@ -84,8 +84,79 @@ My completed coursework for 9 MIT courses taken through [MIT OpenCourseWare](htt
 
 \*\*\*Quiz 1 scores were low across the board in the original Fall 2011 MIT class this course was recorded from. The course staff acknowledged this [here](https://youtu.be/a_otxyu0mSQ?si=FOkm1kT4oVYHMaTe&t=34): *"The results are lower than what we thought... the mistake was on our part."*
 
-## Projects
+## Personal Projects
 
-[Hologram-Engine](https://github.com/BenyaminJazayeri/Hologram-Engine) — A 3D graphics engine with real-life spatial display using 2D screens and eye tracking. A childhood project built between the ages of 14 and 17 (2016-2019), inspired by Iron Man's holographic table.
+### [Hologram-Engine](https://github.com/BenyaminJazayeri/Hologram-Engine)
+A 3D graphics engine with real-life spatial display using 2D screens and eye tracking. A childhood project built between the ages of 14 and 17 (2016-2019), inspired by Iron Man's holographic table.
+
+## Coursework Projects
+
+### 6.006 Introduction to Algorithms
+
+#### [Arbitrary-Precision Arithmetic Library for RSA](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%205)
+Big number library with Karatsuba multiplication, Newton-Raphson division, and modular exponentiation. Applied to RSA encryption.
+
+#### [BST / AVL / Range Tree + Sweep Line Circuit Layout](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%203)
+Balanced tree hierarchy from scratch powering a sweep line algorithm for O(n log n) wire crossing detection.
+
+#### [Dijkstra's Algorithm on the US Highway Network](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%206)
+Shortest-path routing on the National Highway Planning Network with great-circle distance and KML visualization.
+
+#### [Rubik's Cube Bidirectional BFS Solver](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%206)
+Bidirectional BFS on the 2x2x2 Rubik's cube using permutation group inverses.
+
+#### [Content-Aware Image Resizing with Dynamic Programming (Seam Carving)](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%207)
+DP implementation of the [Avidan & Shamir](https://www.youtube.com/watch?v=vIFCV2spKtg) seam carving algorithm.
+
+#### [Min-Heap Priority Queue for Circuit Simulation](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011/tree/main/Problem%20Set%202)
+Profiled an event-driven circuit simulator, identified a bottleneck in the O(n) priority queue, and replaced it with a min-heap built from scratch.
+
+### 6.034 Artificial Intelligence
+
+#### [Neural Network Backpropagation from Scratch](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%205)
+Forward and backward propagation with sigmoid activation through multi-layer networks.
+
+#### [AdaBoost Ensemble Classifier](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%205)
+Weighted voting, weight updates based on classification error, and best-classifier selection. Applied to congressional voting data.
+
+#### [Search Algorithm Suite: BFS, DFS, Hill Climbing, Beam, Branch & Bound, A*](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%202)
+Complete implementation of the uninformed-to-informed search taxonomy with heuristic verification.
+
+#### [Constraint Satisfaction with Forward Checking and Propagation](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%204)
+CSP solver with forward checking and BFS-style singleton domain propagation.
+
+#### [k-Nearest Neighbors and Information Entropy](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%204)
+k-NN classification using Hamming and Euclidean distance, and a Shannon entropy function for decision tree split quality.
+
+#### [Minimax with Alpha-Beta Pruning for Connect Four](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%203)
+Adversarial game search using negamax-style alpha-beta pruning.
+
+#### [Backward Chaining Engine for Rule-Based Systems](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010/tree/main/Lab%201)
+Recursively builds AND/OR goal trees from production rules with pattern-variable unification.
+
+### 6.0002 Intro to Computational Thinking & Data Science
+
+#### [Bacteria Population & Antibiotic Resistance Simulation](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016/tree/main/Problem%20Set%204)
+Stochastic simulation of bacterial growth and natural selection with Monte Carlo trials and 95% confidence intervals.
+
+#### [Climate Data Regression & Overfitting Analysis](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016/tree/main/Problem%20Set%205)
+Polynomial regression on US temperature data with train/test split demonstrating overfitting.
+
+#### [Robot Room Cleaning Monte Carlo Simulation](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016/tree/main/Problem%20Set%203)
+Monte Carlo simulation of robot vacuum cleaners with a multi-level OOP hierarchy and stochastic faulty robot variant.
+
+#### [Constrained Campus Pathfinding](https://github.com/BenyaminJazayeri/MIT-OCW-6.0002-Introduction-To-Computational-Thinking-And-Data-Science-Fall-2016/tree/main/Problem%20Set%202)
+Graph-based shortest path across the MIT campus using DFS with branch-and-bound pruning and an outdoor distance constraint.
+
+### 6.0001 Intro to CS & Programming in Python
+
+#### [RSS Feed Filter with Trigger System](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016/tree/main/Problem%20Set%205)
+News feed filtering with a deep OOP trigger hierarchy implementing strategy and composite design patterns, with a Tkinter GUI.
+
+#### [Caesar Cipher and Substitution Cipher with OOP](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016/tree/main/Problem%20Set%204)
+Recursive permutation generator connected to two encryption systems with class inheritance.
+
+#### [Scrabble-like Word Game with Wildcards](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016/tree/main/Problem%20Set%203)
+Word game with wildcard vowel substitution, hand management, and multi-hand orchestration.
 
 I'd be very happy to discuss anything related to MIT OCW. Reach me at [benjamin.jazayeri@gmail.com](mailto:benjamin.jazayeri@gmail.com).
